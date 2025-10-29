@@ -1,1 +1,4 @@
 *.exe
+act_fizzbuzz.cpp
+act_triangle_printing.cpp
+act_fibonacci_sequence.cpp
